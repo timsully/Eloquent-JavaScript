@@ -3,9 +3,9 @@ A book about JavaScript, programming, and the wonders of the digital. CODES BABY
 
 ## Contents
 
-- [ ] Introduction
+- [x] Introduction
 
-- [ ] 1. Values, Types, and Operators
+- [x] 1. Values, Types, and Operators
 
 - [ ] 2. Program Structure
 
